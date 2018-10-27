@@ -1,0 +1,24 @@
+{
+  "name": "coursera-front-end-react",
+  "version": "1.0.0",
+  "description": "Front-End Web Development with React",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saintbrendan/coursera-front-end-react.git"
+  },
+  "author": "Brendan Cunnie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saintbrendan/coursera-front-end-react/issues"
+  },
+  "homepage": "https://github.com/saintbrendan/coursera-front-end-react#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
